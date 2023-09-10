@@ -22,13 +22,13 @@ O objetivo deste projeto é recriar a interface do antigo Twitter, permitindo qu
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/clone-twitter-kenzie
+git clone https://github.com/MarcoTSF/Kenzie-Twitter
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd clone-twitter-kenzie
+cd Kenzie-Twitter
 ```
 
 3. Abra o arquivo `index.html` no seu navegador para visualizar o projeto.
